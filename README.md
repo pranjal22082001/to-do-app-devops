@@ -1,4 +1,6 @@
-# node-todo-cicd
+# node-todo-devops
+
+creating a CI/CD pipeline using jenkins 
 
 Run these commands:
 
